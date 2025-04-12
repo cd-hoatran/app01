@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 
 const app = express();
-const port = process.env.PORT || 7000;
+const port = process.env.PORT || 3000;
 
 // routes will go here
 app.get('/api/getUserInfo', function(req, res) {
