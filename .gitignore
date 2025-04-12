@@ -1,0 +1,14 @@
+.git/
+node_modules/
+dist/
+logs/
+module/
+.vscode
+src/uploads/
+uploads/
+
+.env
+pnpm-lock.yaml
+yarn-error.log
+.aider*
+.aider.chat.history.md
